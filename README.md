@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghachatur&show_icons=true&locale=en" alt="meghachatur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghachatur&" alt="meghachatur" /></p>
+
+![snake gif](https://github.com/MeghaChatur/MeghaChatur/blob/output/github-snake-dark.svg)
