@@ -1,5 +1,5 @@
 # 💫 Hello World!  I'm Megha Chatur👋🏼:
-I'm a passionate Computer Science Engineer with a talent for solving complex problems and building innovative software solutions. With hands-on experience in web and app development, I thrive on transforming ideas into functional and user-friendly applications.<br><br>🎖 Grand Finalist at the Smart India Hackathon 2023, where I led the development of an inclusive and secure online meeting platform for AICTE.<br>🚗 Created RideMe, a Flutter and Firebase-based application designed to simplify car bookings, featuring real-time tracking, advanced search filters, and an intuitive user interface.
+I'm a passionate Computer Science Engineer with a talent for solving complex problems and building innovative software solutions. With hands-on experience in web and app development, I thrive on transforming ideas into functional and user-friendly applications.<br><br>
 
 
 ## 🌐 Socials:
