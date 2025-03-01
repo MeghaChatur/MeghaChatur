@@ -1,5 +1,5 @@
 # Hii 👋🏼 I'm Megha Chatur
-I'm a passionate Computer Science Engineer with a talent for solving complex problems and building innovative software solutions. With hands-on experience in web and app development, I thrive on transforming ideas into functional and user-friendly applications.<br><br>
+A passionate Software Engineer with a talent for solving complex problems and building innovative software solutions. With hands-on experience in web and app development, I thrive on transforming ideas into functional and user-friendly applications.<br><br>
 
 
 ## 🌐 Socials:
