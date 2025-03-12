@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Megha Chatur</h1>
+<h1 align="center">Hello 👋, I'm Megha Chatur</h1>
 <h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
